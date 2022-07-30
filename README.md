@@ -1,1 +1,2 @@
 # Image-Classification
+The main objective of this project was to classify Hand written digits. This is a classification problem. Used in-built dataset for classification. Data contains the pixel value of the image. Matplotlib and seaborn library were extensively used for data visualization. Data preprocessing was also done(Min-Max Scaler). At first used SGD Classifier without regularization followed by training the train dataset with regularization and hyper tuned the model. Plotted the precision-recall curve and ROC-AUC curve and calculated roc_auc_score as 99.7%.
